@@ -1,0 +1,16 @@
+body {
+    background-color: #621843;
+    color: #F5F2C5;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 600px;
+}
+
+.item {
+    margin-top: 50px;
+}
